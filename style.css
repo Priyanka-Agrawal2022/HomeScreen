@@ -592,8 +592,8 @@
 #frame18 {
   width: 360px;
   height: 66px;
-  top: 2470px;
-  position: absolute;
+  bottom: 0;
+  position: fixed;
   background-color: white;
   display: flex;
   justify-content: space-around;
